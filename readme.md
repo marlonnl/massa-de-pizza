@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # massa de pizza
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+Calculadora simples para quantidade dos ingredientes para uma deliciosa massa de pizza.
+>>>>>>> 58aa1657e136a678d9f39404ae1093209d59f1c1
